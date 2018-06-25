@@ -1,1 +1,1 @@
-<h1>Simply</h1>
+<h1>Simply <?php echo date('Y') ?></h1>
